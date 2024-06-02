@@ -12,6 +12,18 @@ Software Engineer with 5 years of experience as Analyst across multiple sectors.
 - linkedin.com/in/nazarenko-maksym
 - github.com/maks-n
 
+## Skills:
+
+**Programming language**: JavaScript, Java
+**Framework**: React, Node.js, Express.js
+**Other technologies**: HTML, CSS, Sass (SCSS), Git, npm, Maven, JSON, XML, bash
+**CI/CD**: Jenkins
+**SQL**: PostgreSQL, MySQL
+**API testing**: Postman
+**Methodologies**: Agile, Scrum, Waterfall
+**Bug Tracking**: Jira, Confluence
+**OS**: macOS, Windows, Linux
+
 ## Work Experience:
 
 ### Software Engineer | GlobalLogic | Dec 2021 – Jun 2022
