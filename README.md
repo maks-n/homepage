@@ -11,3 +11,43 @@ Software Engineer with 5 years of experience as Analyst across multiple sectors.
 - mrnazarenkom@gmail.com
 - linkedin.com/in/nazarenko-maksym
 - github.com/maks-n
+
+## Work Experience:
+
+### Software Engineer | GlobalLogic | Dec 2021 – Jun 2022
+
+- Developed an API endpoint, streamlining the Support Department's data collection and analysis process, that
+expedited analytical decision-making of new features
+- Enhanced project test coverage by 5%, ensuring higher code reliability and quality
+- Integrated new features during the upgrade to next version of Java, ensuring a seamless transition and
+enhanced system capabilities
+- Assisted in the process of implementing Agile methodologies by facilitating scrum ceremonies and enforcing
+strict timelines, resulting in 2x increase in release delivery speed
+
+### Analyst | Antimonopoly Committee of Ukraine | May 2017 – Sep 2021
+
+- Conducted in-depth analysis that substantiated antitrust actions of defendants, presenting evidence-based
+insights to support Investigation Department
+- Formulated a comprehensive methodology in line with international best practices for evaluating the
+economic impact of authority, enabling insightful evaluations and strategic planning
+- Modified the structure of monthly reports for regional offices, optimizing workflow efficiency and significantly
+reducing the time-to-report, streamlining operational processes
+- Changed the authority's annual reporting process to align with international standards, ensuring global
+compliance and enhancing report quality and transparency
+
+### Fellowship in Economic Bureau | U.S. Federal Trade Commission | Oct 2019 – Nov 2019
+
+- Selected as the standout employee to participate in a prestigious fellowship program in the United States
+- Acquired expertise in spatial analysis through dedicated learning of the R programming language
+- Applied and validated market definition theories through spatial analysis on real-world scenarios
+- Participated in the Bureau's weekly Seminar Series, featuring lectures by distinguished Ivy League professors
+
+## Education:
+
+### National Technical University of Ukraine, Kyiv, Ukraine
+
+BSc - Computer Science | Sep 2021
+
+### National University of Life and Environmental Sciences of Ukraine, Kyiv, Ukraine
+
+MSc - Economics | Dec 2017
