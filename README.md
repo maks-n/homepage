@@ -63,3 +63,11 @@ BSc - Computer Science | Sep 2021
 ### National University of Life and Environmental Sciences of Ukraine, Kyiv, Ukraine
 
 MSc - Economics | Dec 2017
+
+## Personal interest:
+
+- Cycling
+- Gym
+- Nutrition
+- Investing
+- Ocean watching
