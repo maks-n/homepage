@@ -41,3 +41,13 @@ compliance and enhancing report quality and transparency
 - Acquired expertise in spatial analysis through dedicated learning of the R programming language
 - Applied and validated market definition theories through spatial analysis on real-world scenarios
 - Participated in the Bureau's weekly Seminar Series, featuring lectures by distinguished Ivy League professors
+
+## Education:
+
+### National Technical University of Ukraine, Kyiv, Ukraine
+
+BSc - Computer Science | Sep 2021
+
+### National University of Life and Environmental Sciences of Ukraine, Kyiv, Ukraine
+
+MSc - Economics | Dec 2017
