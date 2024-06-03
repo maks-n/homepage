@@ -167,6 +167,26 @@ body {
   text-align: justify;
 }
 
+.skills__skill {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 10px;
+}
+
+.skills__topic {
+  color: var(--secondary-text-color);
+  text-align: justify;
+  font: 700;
+}
+
+.skills__list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap: 30px;
+}
+
 .experiences {
   flex: 1 1 60%;
   margin-right: 50px;
