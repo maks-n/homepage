@@ -250,6 +250,10 @@ body {
   margin-bottom: 20px;
 }
 
+.additional-info__education-university {
+  margin-bottom: 20px;
+}
+
 .additional-info__education-university-durability {
   color: var(--durability-text-color);
   text-align: left;
@@ -267,16 +271,16 @@ body {
   color: var(--secondary-text-color);
 }
 
-.additional-info__languages {
+.additional-info__topic {
   margin-bottom: 20px;
 }
 
-.additional-info__languages-header {
+.additional-info__topic-header {
   color: var(--secondary-text-color);
   text-align: left;
   margin-bottom: 20px;
 }
 
-.additional-info__languages-item {
+.additional-info__topic-item {
   color: var(--secondary-text-color);
 }
